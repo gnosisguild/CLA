@@ -1,21 +1,21 @@
-Gnosis Contributor License Agreement
+Gnosis Guild Contributor License Agreement
 ====================================
 
-Thank you for your interest in contributing to open source software projects ("Projects") made available by Gnosis Ltd or its affiliates ("Gnosis"). This Contributor License Agreement ("Agreement") sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit or have submitted, in any form and in any manner, to Gnosis in respect of any of the Projects (collectively "Contributions"). If you have any questions respecting this Agreement, please contact <legal@gnosis.io>.
+Thank you for your interest in contributing to open source software projects ("Projects") made available by GG DAO LLC or its affiliates ("Gnosis Guild"). This Contributor License Agreement ("Agreement") sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit or have submitted, in any form and in any manner, to Gnosis Guild in respect of any of the Projects (collectively "Contributions"). If you have any questions respecting this Agreement, please contact <legal@gnosisguild.org>.
 
 You agree that the following terms apply to all of your past, present and future Contributions. Except for the licenses granted in this Agreement, you retain all of your right, title and interest in and to your Contributions.
 
 ## Copyright License
 
-You hereby grant, and agree to grant, to Gnosis a non-exclusive, perpetual, irrevocable, worldwide, fully-paid, royalty-free, transferable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute your Contributions and such derivative works, with the right to sublicense the foregoing rights through multiple tiers of sublicensees.
+You hereby grant, and agree to grant, to Gnosis Guild a non-exclusive, perpetual, irrevocable, worldwide, fully-paid, royalty-free, transferable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute your Contributions and such derivative works, with the right to sublicense the foregoing rights through multiple tiers of sublicensees.
 
 ## Patent License
 
-You hereby grant, and agree to grant, to Gnosis a non-exclusive, perpetual, irrevocable, worldwide, fully-paid, royalty-free, transferable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer your Contributions, where such license applies only to those patent claims licensable by you that are necessarily infringed by your Contributions alone or by combination of your Contributions with the Project to which such Contributions were submitted, with the right to sublicense the foregoing rights through multiple tiers of sublicensees.
+You hereby grant, and agree to grant, to Gnosis Guild a non-exclusive, perpetual, irrevocable, worldwide, fully-paid, royalty-free, transferable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer your Contributions, where such license applies only to those patent claims licensable by you that are necessarily infringed by your Contributions alone or by combination of your Contributions with the Project to which such Contributions were submitted, with the right to sublicense the foregoing rights through multiple tiers of sublicensees.
 
 ## Moral Rights
 
-To the fullest extent permitted under applicable law, you hereby waive, and agree not to assert, all of your "moral rights" in or relating to your Contributions for the benefit of Gnosis, its assigns, and their respective direct and indirect sublicensees.
+To the fullest extent permitted under applicable law, you hereby waive, and agree not to assert, all of your "moral rights" in or relating to your Contributions for the benefit of Gnosis Guild, its assigns, and their respective direct and indirect sublicensees.
 
 ### Third Party Content/Rights
 
@@ -31,7 +31,7 @@ To the fullest extent permitted under applicable law, your Contributions are pro
 
 ## No Obligation
 
-You acknowledge that Gnosis is under no obligation to use or incorporate your Contributions into any of the Projects. The decision to use or incorporate your Contributions into any of the Projects will be made at the sole discretion of Gnosis or its authorized delegates.
+You acknowledge that Gnosis Guild is under no obligation to use or incorporate your Contributions into any of the Projects. The decision to use or incorporate your Contributions into any of the Projects will be made at the sole discretion of Gnosis Guild or its authorized delegates.
 
 ## Disputes
 
@@ -39,4 +39,4 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 ## Assignment
 
-You agree that Gnosis may assign this Agreement, and all of its rights, obligations and licenses hereunder.
+You agree that Gnosis Guild may assign this Agreement, and all of its rights, obligations and licenses hereunder.
